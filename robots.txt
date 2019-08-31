@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aiphaehahx.percipio.dk/sitemap.xml
